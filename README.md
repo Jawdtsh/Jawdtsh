@@ -1,16 +1,25 @@
 # Hi 👋, I'm Jawdt Alshalabe
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="jawdtsh" height="100" width="100" />
+</p>
 
 ## I am an experienced Laravel developer skilled in building and deploying web applications. I have a solid foundation in Laravel, with a collection of efficient and scalable projects. Continuously improving my skills, I aim to contribute to impactful projects and advance to a senior developer role.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawdtsh&label=Profile%20views&color=0e75b6&style=flat" alt="jawdtsh" />
-</p>
+<br><br>
 
 ---
+### ✍️ Dev Quote
 
-## Connect with me:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="jawdtsh" />
+</p>
+
+<br><br>
+
+---
+### Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/jawdt shalabe" target="_blank">
@@ -32,7 +41,7 @@
   -->
 
 </p>
-
+<br><br>
 
 ---
 
@@ -57,15 +66,17 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawdtsh&show_icons=true&locale=en&layout=compact" alt="jawdtsh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawdtsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="jawdtsh" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawdtsh&show_icons=true&locale=en" alt="jawdtsh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawdtsh&theme=dark&hide_border=false" alt="jawdtsh" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawdtsh&" alt="jawdtsh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawdtsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="jawdtsh" />
 </p>
+
