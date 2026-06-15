@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="jawdtsh" height="100" width="100" />
 </p>
 
-## I am an experienced Laravel developer skilled in building and deploying web applications. I have a solid foundation in Laravel, with a collection of efficient and scalable projects. Continuously improving my skills, I aim to contribute to impactful projects and advance to a senior developer role.
+## Backend Developer with 3 years of experience in developing secure and scalable web applications. Strong in designing RESTful APIs, integrating payment systems, and applying Clean Architecture principles. Focused on performance optimization, code quality, maintainability, and deploying applications on VPS and shared hosting environments.
 
 <br><br>
 
