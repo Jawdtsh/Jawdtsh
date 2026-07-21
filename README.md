@@ -1,12 +1,17 @@
-# Hi 👋, I'm Jawdt Alshalabe
+# Hi 👋, I'm Jawdt Al Shalabe
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="jawdtsh" height="60" width="60" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" height="60" width="60" />
 </p>
 
-<h3 align="center">Laravel Backend Developer | Scalable APIs & Web Applications</h3>
+<h3 align="center">Backend Engineer | Laravel | API Architecture | Enterprise Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jawdt-shalabe" target="_blank">
+Building scalable backend systems with a strong focus on software architecture, clean code, and business-driven solutions.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jawdt-sh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@jawdtalshalabe.com" target="_blank">
@@ -16,61 +21,207 @@
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-I am a passionate **Backend Developer** with over 3 years of professional experience building secure, high-performance, and scalable web applications. 
+I'm a **Backend Engineer** with **4+ years of professional experience** designing and building production backend systems for startups, SaaS platforms, financial applications, marketplaces, and government solutions.
 
-- 🛠️ **Expertise:** Advanced PHP & Laravel ecosystem, OOP, and Eloquent ORM.
-- 📐 **Architecture:** Strong advocate for Clean Architecture principles and Database Query Optimization.
-- 💳 **Integrations:** Experienced in implementing Multi-Tenancy architectures, robust RESTful APIs, and payment gateways (Stripe, Payeer, Cryptomus).
-- ☁️ **DevOps:** Capable of automating lifecycles, setting up VPS environments, and handling deployments via SSH/cPanel.
+My work goes beyond writing Laravel code. I enjoy understanding business requirements, designing scalable architectures, modeling databases, optimizing APIs, and building systems that remain maintainable as they grow.
 
----
-
-### 🛠️ Technical Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Frameworks** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
-| **DevOps & Deployment** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) VPS, SSH, cPanel |
-| **Tools & Management** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=flat&logo=trello&logoColor=white) Agile/Scrum |
+I have worked closely with clients and cross-functional teams throughout the complete software development lifecycle—from gathering requirements and designing database schemas to deployment and production support.
 
 ---
 
-### 💻 Featured Projects
+# 🛠 Tech Stack
 
-#### 🤝 Relief Platform
-* **Description:** A comprehensive humanitarian aid coordination platform developed to manage requirements and track workflows for the Damascus Countryside Governorate.
-* **Tech Stack:** `Laravel`, `MySQL`, `Scrum/Agile`, `GoodDay`.
-* **Key Achievements:** Led a 6-member team to ensure smooth delivery and translated complex stakeholder expectations into production-ready features.
+## Languages
 
-#### 🏛️ e-Government Portal (Damascus Countryside Governorate)
-* **Description:** Designed and engineered the core backend architecture for a high-security e-Government system.
-* **Tech Stack:** `Laravel`, `RESTful APIs`, `RBAC Architecture`.
-* **Key Achievements:** Automated the entire lifecycle of user complaints and built secure admin dashboards for advanced roles and system configurations.
+- PHP
 
-#### 🌐 Portia.pro (SaaS Platform)
-* **Description:** A scalable SaaS platform engineered specifically for handling secure proxy sales.
-* **Tech Stack:** `Laravel`, `Multi-Tenancy`, `Payeer Gateway`, `VPS/Linux`.
-* **Key Achievements:** Built a stable Multi-Tenancy architecture ensuring high isolated-data security, and integrated payment gateways with high-performance APIs.
+## Frameworks
 
-#### 🛍️ Bazar Mobile App Backend
-* **Description:** The full backend architecture for a local second-hand Consumer-to-Consumer (C2C) marketplace app.
-* **Tech Stack:** `Laravel`, `API Design`, `Database Design (ERD)`, `Custom UI Builder`.
-* **Key Achievements:** Developed a custom dynamic UI builder engine driven by the backend, designed full security architecture, and successfully managed production deployments.
+- Laravel
+
+## Backend Development
+
+- RESTful APIs
+- Authentication & Authorization
+- API Documentation
+- Queue Processing
+- Events & Listeners
+- Background Jobs
+- Validation
+- File Import / Export
+
+## Software Architecture
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Modular Domain Architecture
+- Dependency Injection
+- Service Container
+- Repository Pattern
+- Pipeline Pattern
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- Database Design
+- ERD Design
+- Query Optimization
+- Database Transactions
+- Indexing
+- Performance Optimization
+
+## Security
+
+- Laravel Sanctum
+- OAuth (Social Authentication)
+- JWT Concepts
+- RBAC
+- Authorization Policies
+- Rate Limiting
+
+## Infrastructure
+
+- Docker
+- Nginx
+- Apache
+- Linux
+- VPS Deployment
+
+## Tools
+
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+- Jira
+- Postman
+- Apidog
+- Swagger
+
+## Laravel Ecosystem
+
+- Sanctum
+- Socialite
+- Laravel Excel
+- Laravel Pint
+- Larastan
+- Telescope
+- Debugbar
+- Spatie Laravel Permission
+- Spatie Query Builder
 
 ---
-### ✍️ Dev Quote
+
+# 💼 Featured Projects
+
+## 💰 Tamkeen — Financial Installment Management Platform
+
+Enterprise financial platform built to manage customers, contracts, investors, installments, and financial operations.
+
+### Highlights
+
+- Designed the complete backend architecture.
+- Built complex financial business workflows.
+- Advanced filtering, sorting and reporting APIs.
+- Investor management and profit calculations.
+- Import & Export pipelines.
+- Multi-language support.
+- Role & Permission management.
+- PostgreSQL & MySQL.
+- Mobile-first REST APIs.
+
+---
+
+## 🌐 Portia.pro — Multi-Tenant SaaS Platform
+
+Production SaaS platform for managing proxy services.
+
+### Highlights
+
+- Implemented approximately 50% of the backend.
+- Multi-tenant architecture.
+- Subscription & package management.
+- Payment gateway integrations.
+- Google OAuth authentication.
+- Affiliate management system.
+- Firebase notifications.
+- RESTful APIs.
+- Production environment with real customers.
+
+---
+
+## 🏛 Rural Damascus Governorate Complaint Management System
+
+Government platform developed to manage citizen complaints and administrative workflows across multiple departments.
+
+### Highlights
+
+- Complaint lifecycle management.
+- Employee & citizen portals.
+- RBAC authorization system.
+- Executive dashboards.
+- Internal notification system.
+- Complaint tracking & reporting.
+- Government workflow automation.
+
+---
+
+# 💡 Engineering Interests
+
+- Backend Architecture
+- Enterprise Applications
+- Financial Systems
+- Database Design
+- Performance Optimization
+- Distributed Systems
+- Software Design
+- REST API Design
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my knowledge in areas beyond application development, including:
+
+- Distributed Systems
+- Advanced PostgreSQL
+- Redis
+- DevOps & Infrastructure
+- CI/CD Pipelines
+- System Design
+- Scalable Software Architecture
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- Backend Engineering
+- Laravel
+- Software Architecture
+- API Design
+- Performance Optimization
+- Financial Systems
+- Enterprise Applications
+
+Feel free to reach out!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="https://linkedin.com/in/jawdt-sh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:contact@jawdtalshalabe.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawdtsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="48%" />
+⭐ Thanks for visiting my profile!
 </p>
