@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" height="60" width="60" />
 </p>
 
-<h3 align="center">Backend Engineer | Laravel | API Architecture | Enterprise Systems</h3>
+<h3 align="center">Backend Engineer | API Architecture | Enterprise Systems</h3>
 
 <p align="center">
 Building scalable backend systems with a strong focus on software architecture, clean code, and business-driven solutions.
