@@ -195,7 +195,6 @@ I'm continuously expanding my knowledge in backend engineering and software arch
 * Redis
 * DevOps
 * CI/CD Pipelines
-* Cloud Infrastructure
 * Scalable Software Architecture
 
 ---
