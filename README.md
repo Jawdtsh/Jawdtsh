@@ -23,96 +23,91 @@ Building scalable backend systems with a strong focus on software architecture, 
 
 # 🚀 About Me
 
-I'm a **Backend Engineer** with **4+ years of professional experience** designing and building production backend systems for startups, SaaS platforms, financial applications, marketplaces, and government solutions.
+I'm a **Backend Engineer** with **4+ years of professional experience** building production-grade backend systems for startups, SaaS platforms, financial applications, marketplaces, and government solutions.
 
-My work goes beyond writing Laravel code. I enjoy understanding business requirements, designing scalable architectures, modeling databases, optimizing APIs, and building systems that remain maintainable as they grow.
+I enjoy transforming business requirements into scalable, maintainable software by designing clean architectures, well-structured APIs, and optimized databases.
 
-I have worked closely with clients and cross-functional teams throughout the complete software development lifecycle—from gathering requirements and designing database schemas to deployment and production support.
+My experience spans the entire backend development lifecycle—from requirements analysis and database design to deployment, maintenance, and continuous improvement.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+## Core Technologies
 
-- PHP
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,linux,nginx,git,github,gitlab,postman" />
+</p>
 
-## Frameworks
+## Engineering Expertise
 
-- Laravel
+<p align="center">
 
-## Backend Development
+<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge"/>
 
-- RESTful APIs
-- Authentication & Authorization
-- API Documentation
-- Queue Processing
-- Events & Listeners
-- Background Jobs
-- Validation
-- File Import / Export
+<img src="https://img.shields.io/badge/API_Architecture-111827?style=for-the-badge"/>
 
-## Software Architecture
+<img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge"/>
 
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- Modular Domain Architecture
-- Dependency Injection
-- Service Container
-- Repository Pattern
-- Pipeline Pattern
+<img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge"/>
 
-## Databases
+<img src="https://img.shields.io/badge/Design_Patterns-111827?style=for-the-badge"/>
 
-- PostgreSQL
-- MySQL
-- Database Design
-- ERD Design
-- Query Optimization
-- Database Transactions
-- Indexing
-- Performance Optimization
+<img src="https://img.shields.io/badge/Domain_Driven_Design-111827?style=for-the-badge"/>
 
-## Security
+<img src="https://img.shields.io/badge/Repository_Pattern-111827?style=for-the-badge"/>
 
-- Laravel Sanctum
-- OAuth (Social Authentication)
-- JWT Concepts
-- RBAC
-- Authorization Policies
-- Rate Limiting
+<img src="https://img.shields.io/badge/Dependency_Injection-111827?style=for-the-badge"/>
 
-## Infrastructure
+<img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge"/>
 
-- Docker
-- Nginx
-- Apache
-- Linux
-- VPS Deployment
+<img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge"/>
 
-## Tools
+<img src="https://img.shields.io/badge/Authorization-111827?style=for-the-badge"/>
 
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- Jira
-- Postman
-- Apidog
-- Swagger
+<img src="https://img.shields.io/badge/Queue_Processing-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Background_Jobs-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Event_Driven-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Design-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ERD_Design-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance_Optimization-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Query_Optimization-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Transactions-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Indexing-111827?style=for-the-badge"/>
+
+</p>
 
 ## Laravel Ecosystem
 
-- Sanctum
-- Socialite
-- Laravel Excel
-- Laravel Pint
-- Larastan
-- Telescope
-- Debugbar
-- Spatie Laravel Permission
-- Spatie Query Builder
+<p align="center">
+
+<img src="https://img.shields.io/badge/Sanctum-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Socialite-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Laravel_Excel-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Laravel_Pint-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Larastan-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Telescope-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Debugbar-grey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spatie_Permission-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spatie_Query_Builder-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -124,15 +119,15 @@ Enterprise financial platform built to manage customers, contracts, investors, i
 
 ### Highlights
 
-- Designed the complete backend architecture.
-- Built complex financial business workflows.
-- Advanced filtering, sorting and reporting APIs.
-- Investor management and profit calculations.
-- Import & Export pipelines.
-- Multi-language support.
-- Role & Permission management.
-- PostgreSQL & MySQL.
-- Mobile-first REST APIs.
+* Designed the complete backend architecture.
+* Built complex financial business workflows.
+* Advanced filtering, sorting, and reporting APIs.
+* Investor management and profit calculations.
+* Import & Export pipelines.
+* Multi-language support.
+* Role & Permission management.
+* PostgreSQL & MySQL.
+* Mobile-first REST APIs.
 
 ---
 
@@ -142,15 +137,15 @@ Production SaaS platform for managing proxy services.
 
 ### Highlights
 
-- Implemented approximately 50% of the backend.
-- Multi-tenant architecture.
-- Subscription & package management.
-- Payment gateway integrations.
-- Google OAuth authentication.
-- Affiliate management system.
-- Firebase notifications.
-- RESTful APIs.
-- Production environment with real customers.
+* Implemented approximately 50% of the backend.
+* Multi-tenant architecture.
+* Subscription & package management.
+* Payment gateway integrations.
+* Google OAuth authentication.
+* Affiliate management system.
+* Firebase notifications.
+* RESTful APIs.
+* Production environment serving real customers.
 
 ---
 
@@ -160,40 +155,40 @@ Government platform developed to manage citizen complaints and administrative wo
 
 ### Highlights
 
-- Complaint lifecycle management.
-- Employee & citizen portals.
-- RBAC authorization system.
-- Executive dashboards.
-- Internal notification system.
-- Complaint tracking & reporting.
-- Government workflow automation.
+* Complaint lifecycle management.
+* Employee & citizen portals.
+* RBAC authorization system.
+* Executive dashboards.
+* Internal notification system.
+* Complaint tracking & reporting.
+* Government workflow automation.
 
 ---
 
 # 💡 Engineering Interests
 
-- Backend Architecture
-- Enterprise Applications
-- Financial Systems
-- Database Design
-- Performance Optimization
-- Distributed Systems
-- Software Design
-- REST API Design
+* Backend Architecture
+* Enterprise Applications
+* Financial Systems
+* System Design
+* Distributed Systems
+* Database Engineering
+* Performance Optimization
+* API Design
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my knowledge in areas beyond application development, including:
+I'm continuously expanding my knowledge in backend engineering and software architecture, with a particular focus on:
 
-- Distributed Systems
-- Advanced PostgreSQL
-- Redis
-- DevOps & Infrastructure
-- CI/CD Pipelines
-- System Design
-- Scalable Software Architecture
+* Distributed Systems
+* Advanced PostgreSQL
+* Redis
+* DevOps
+* CI/CD Pipelines
+* Cloud Infrastructure
+* Scalable Software Architecture
 
 ---
 
@@ -201,27 +196,36 @@ I'm continuously improving my knowledge in areas beyond application development,
 
 I'm always interested in discussing:
 
-- Backend Engineering
-- Laravel
-- Software Architecture
-- API Design
-- Performance Optimization
-- Financial Systems
-- Enterprise Applications
+* Backend Engineering
+* Laravel
+* Software Architecture
+* API Design
+* Performance Optimization
+* Enterprise Applications
+* Financial Systems
 
 Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/jawdt-sh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/jawdt-sh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@jawdtalshalabe.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+
+  <a href="mailto:contact@jawdtalshalabe.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://drive.google.com/uc?export=download&id=1Mz4yq22rkn_F3z8uYo21gi-btLfzpQIf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code is temporary. Architecture is what lasts."*
+
 </p>
