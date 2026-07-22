@@ -14,9 +14,14 @@ Building scalable backend systems with a strong focus on software architecture, 
   <a href="https://linkedin.com/in/jawdt-sh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:contact@jawdtalshalabe.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+<a href="https://drive.google.com/file/d/1Mz4yq22rkn_F3z8uYo21gi-btLfzpQIf/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV" />
+</a>
 </p>
 
 ---
