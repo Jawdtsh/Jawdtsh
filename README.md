@@ -137,6 +137,9 @@ Enterprise financial platform built to manage customers, contracts, investors, i
 ---
 
 ## 🌐 Portia.pro — Multi-Tenant SaaS Platform
+<a href="https://portia.pro" target="_blank">
+  <img src="https://img.shields.io/badge/Portia.pro-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 Production SaaS platform for managing proxy services.
 
